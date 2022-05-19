@@ -1,0 +1,23 @@
+.row{
+    height: max-content;
+    line-height: 83px;
+}
+
+.logo1:hover,.logo:hover{
+    color: yellow;
+    text-decoration: none;
+}
+
+.logo1{
+    color: white;
+    text-decoration: none;
+}
+
+
+.fa10{
+    font-size: 30px;
+}
+
+.d-flex{
+    gap: 10px 20px;
+}
